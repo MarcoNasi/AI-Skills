@@ -6,17 +6,54 @@
 
 # [TRAE](https://www.trae.ai/) Skills Collection
 
-**_The Largest, Most Complete, and Popular Collection of TRAE Skills._**
+***The Largest, Most Complete, and Popular Collection of TRAE Skills.***
 
 A powerful collection of **expert-level TRAE Skills**, designed to standardize and elevate every stage of modern software development.
 These skills act as a knowledge base for agents, enabling them to generate production-ready code, follow best practices, and handle complex architectural tasks across multiple stacks.
 
 Perfect for developers, engineers, and teams seeking **consistency, quality, and expert-level output** in every interaction.
 
-
 ---
 
 [![Star the project](https://img.shields.io/badge/⭐_Star_the_Project-black?style=for-the-badge)](https://github.com/HighMark-31/TRAE-Skills/stargazers) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.TRAE-Skills)
+
+---
+
+## ⚠️ IMPORTANT ANNOUNCEMENT
+
+**I NO LONGER SUPPORT TRAE OR THE TRAE TEAM.**
+
+After careful consideration and witnessing the platform's rapid decline, I have decided to **discontinue all support for TRAE** and redirect my efforts to **YecoAI** - my Italian/European AI startup.
+
+### Why I Left TRAE:
+
+- 💰 **Unacceptable Billing Practices**: The change from $3 to $1 per request is a joke. It essentially means "try less than 1 prompt" - completely unsustainable for serious developers.
+- 🔇 **Complete Radio Silence**: The TRAE.AI Discord account is no longer managed by the TRAE Team. Fei has stopped checking chats, replying, or creating events.
+- 🤝 **Enterprise Abandonment**: BytePlus for TRAE Enterprise simply doesn't reply to inquiries anymore.
+- 🚫 **Model Stagnation**: No new models have been released for EU users since June 6. They've also severely limited access to CN models.
+- 📉 **The End of Sustainability**: Literally the end of TRAE as a viable platform.
+
+**This is the proof that TRAE is no longer sustainable.** When a company shows such blatant disregard for its user base and fails to maintain basic communication, it's time to move on.
+
+---
+
+## 🚀 Where to Go Next?
+
+### 👉 **[YecoAI](https://yecoai.com)** - *Italian/European AI Startup*
+
+**What We Do at YecoAI:**
+- 🧠 **Advanced LLMs**: State-of-the-art large language models
+- 🏢 **B2B Solutions**: Enterprise-grade AI for businesses
+- 🔒 **Proprietary PII Models**: Secure, private models for sensitive data
+- 🇪🇺 **European Privacy Standards**: GDPR-compliant and data protection focused
+- 💡 **Innovation Hub**: Cutting-edge AI research and development
+
+**Why Choose YecoAI?**
+- ✅ Transparent and fair pricing
+- ✅ Active community engagement
+- ✅ Regular model updates
+- ✅ Enterprise-grade support that actually responds
+- ✅ Built with European values of privacy and transparency
 
 ---
 
@@ -238,3 +275,55 @@ Perfect for developers, engineers, and teams seeking **consistency, quality, and
 |  | User Manual Creation | [ℹ️](./documentation/User_Manual_Creation.md) | [👆 View](./documentation/User_Manual_Creation.md) |
 |  | User Story Mapping | [ℹ️](./documentation/User_Story_Mapping.md) | [👆 View](./documentation/User_Story_Mapping.md) |
 |  | Writing Effective README | [ℹ️](./documentation/Writing_Effective_README.md) | [👆 View](./documentation/Writing_Effective_README.md) |
+
+---
+
+## ⚙️ Installation
+
+1. Install **TRAE** if you haven't already.
+2. Open **TRAE**.
+3. Browse the skills above and click on any **"View"** link to see the full skill content.
+4. Copy the skill content and use it within your TRAE environment.
+
+---
+
+## 📅 Repository Status
+
+| Status | Details |
+|--------|---------|
+| **Maintenance** | ❌ **DISCONTINUED** |
+| **Support** | ❌ No support for TRAE |
+| **Updates** | ❌ No future updates |
+| **New Skills** | ❌ No new skills for TRAE |
+| **Issues** | ❌ Not monitored |
+| **PRs** | ❌ Not accepted for TRAE |
+| **Reference** | ✅ Repository remains available |
+| **Forking** | ✅ Allowed and encouraged |
+
+---
+
+## 🔗 Explore More
+
+- **[TRAE Agents](https://github.com/HighMark-31/TRAE-Agents)** - Production-ready AI agents for TRAE
+- **[TRAE Tips](https://github.com/HighMark-31/TRAE-Tips)** - Tips and tricks for TRAE
+- **[Agents VS Rules VS Skills](https://github.com/HighMark-31/TRAE-Tips/blob/main/Agents-Rules-Skills.md)** - Understand the core differences
+
+---
+
+## 🚀 Switch to a Better Future
+
+### 👉 **[YecoAI](https://yecoai.com)** - Italian/European AI Startup
+
+**Where European Innovation Meets AI Excellence**
+
+- 🇪🇺 Built with European privacy standards
+- 🏢 Enterprise-grade B2B solutions
+- 🔒 Proprietary PII models for sensitive data
+- 🧠 Cutting-edge LLM research
+- 💡 Transparent, fair, and community-driven
+
+---
+
+**Last Updated: 2026**
+
+*This repository is closed. TRAE is no longer sustainable. Join us at YecoAI for a better AI future.*
